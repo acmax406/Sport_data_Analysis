@@ -1,0 +1,253 @@
+index,0,runs,balls,empty,fours,sixes,strike_rate,out_type,outby
+1,Virat Kohli ,12,22,33,1,0,54.54,lbw,Kulasekara
+23,Virat Kohli ,12,22,33,1,0,54.54,lbw,Kulasekara
+49,Virat Kohli ,37,67,82,6,0,55.22,catch_out,Thushara
+57,Virat Kohli ,25,38,40,4,0,65.78,run_out,(Silva)
+78,Virat Kohli ,54,66,87,7,0,81.81, ,Thushara
+108,Virat Kohli ,31,46,45,3,1,67.39,lbw,Kulasekara
+125,Virat Kohli ,2,2,6,0,0,100,n,
+151,Virat Kohli ,16,24,28,1,0,66.66,catch_out,Afridi
+173,Virat Kohli ,79,104,121,9,2,75.96,n,
+187,Virat Kohli ,30,41,53,3,0,73.17,catch_out,Voges
+207,Virat Kohli ,10,16,32,1,0,62.5,catch_out,Bollinger
+222,Virat Kohli ,27,19,20,4,0,142.1, ,Welegedara
+238,Virat Kohli ,54,65,93,7,0,83.07,lbw,Randiv
+263,Virat Kohli ,107,114,114,11,1,93.85,catch_out,Randiv
+267,Virat Kohli ,9,12,19,1,0,75,catch_out,Welegedara
+293,Virat Kohli ,91,102,136,7,0,89.21,catch_out,Hasan
+310,Virat Kohli ,71,68,98,9,0,104.41,n,
+322,Virat Kohli ,102,95,128,11,0,107.36,n,
+328,Virat Kohli ,2,8,6,0,0,25,catch_out,Welegedara
+349,Virat Kohli ,31,46,46,1,0,67.39,catch_out,Morkel
+389,Virat Kohli ,57,71,71,4,1,80.28,catch_out,Steyn
+400,Virat Kohli ,0,0,3,0,0,-,run_out,(Chigumura)
+424,Virat Kohli ,82,92,125,4,0,89.13,catch_out,Randiv
+429,Virat Kohli ,18,29,28,1,0,62.06,catch_out,Utseya
+445,Virat Kohli ,68,95,123,5,0,71.57,catch_out,Thushara
+473,Virat Kohli ,11,22,35,0,0,50,s,Hasan
+490,Virat Kohli ,18,27,31,1,0,66.66, ,Ajmal
+499,Virat Kohli ,10,14,13,1,0,71.42,catch_out,Maharoof
+515,Virat Kohli ,28,34,57,4,0,82.35,catch_out,Malinga
+545,Virat Kohli ,0,3,5,0,0,0,catch_out,Fernando
+551,Virat Kohli ,8,16,22,1,0,50,catch_out,Southee
+583,Virat Kohli ,37,57,98,5,0,64.91,catch_out,Perera
+599,Virat Kohli ,118,121,193,11,1,97.52,catch_out,Hastings
+606,Virat Kohli ,105,104,162,10,0,100.96,catch_out,MKay
+638,Virat Kohli ,64,73,78,8,0,87.67,catch_out,MKay
+652,Virat Kohli ,63,70,83,6,2,90,n,
+664,Virat Kohli ,0,2,3,0,0,0,catch_out,MKay
+682,Virat Kohli ,2,8,10,0,0,25,catch_out,Vettori
+697,Virat Kohli ,54,70,122,2,1,77.14,catch_out,Steyn
+708,Virat Kohli ,22,34,43,1,0,64.7,run_out,(Miller)
+741,Virat Kohli ,28,41,51,5,0,68.29,catch_out,Morkel
+760,Virat Kohli ,87,92,126,7,2,94.56,n,
+779,Virat Kohli ,2,6,11,0,0,33.33,catch_out,Morkel
+791,Virat Kohli ,100,83,113,8,2,120.48,n,
+810,Virat Kohli ,8,5,12,1,0,160, ,Bresnan
+839,Virat Kohli ,34,53,82,3,0,64.15,run_out,O'Brien)
+858,Virat Kohli ,12,20,16,2,0,60, ,Borren
+867,Virat Kohli ,1,3,2,0,0,33.33,catch_out,Peterson
+883,Virat Kohli ,59,76,128,5,0,77.63, ,Rampaul
+914,Virat Kohli ,24,33,38,1,0,72.72,catch_out,Hussey
+921,Virat Kohli ,9,21,20,0,0,42.85,catch_out,Riaz
+951,Virat Kohli ,35,49,69,4,0,71.42,catch_out,Dilshan
+967,Virat Kohli ,2,8,5,0,0,25,catch_out,Rampaul
+986,Virat Kohli ,81,103,118,6,1,78.64,catch_out,Bishoo
+1001,Virat Kohli ,0,1,1,0,0,0,lbw,Sammy
+1020,Virat Kohli ,22,33,68,1,0,66.66,s,Martin
+1031,Virat Kohli ,94,104,135,10,0,90.38,run_out,(†Baugh/Sarwan)
+1049,Virat Kohli ,55,73,92,4,0,75.34, ,Patel
+1063,Virat Kohli ,9,9,9,0,0,100,catch_out,Swann
+1077,Virat Kohli ,7,18,18,0,0,38.88,catch_out,Anderson
+1095,Virat Kohli ,16,36,40,1,0,44.44,catch_out,Swann
+1112,Virat Kohli ,107,93,102,9,1,115.05,h,Swann
+1126,Virat Kohli ,37,63,70,0,0,58.73,catch_out,Patel
+1157,Virat Kohli ,112,98,134,16,0,114.28,n,
+1167,Virat Kohli ,35,30,42,5,0,116.66,lbw,Swann
+1185,Virat Kohli ,86,99,99,11,0,86.86,n,
+1190,Virat Kohli ,0,5,5,0,0,0, ,Finn
+1223,Virat Kohli ,3,6,13,0,0,50, ,Roah
+1245,Virat Kohli ,117,123,154,14,0,95.12,catch_out,Rampaul
+1260,Virat Kohli ,20,30,21,3,0,66.66,lbw,Narine
+1273,Virat Kohli ,23,11,15,3,0,209.09,n,
+1290,Virat Kohli ,80,85,99,5,0,94.11,catch_out,Martin
+1314,Virat Kohli ,31,34,30,3,0,91.17,catch_out,MKay
+1335,Virat Kohli ,77,94,156,8,1,81.91,run_out,(Malinga)
+1352,Virat Kohli ,18,28,41,1,0,64.28,catch_out,MKay
+1371,Virat Kohli ,15,25,32,1,0,60,lbw,Perera
+1389,Virat Kohli ,12,25,44,0,0,48,catch_out,Hilfenhaus
+1409,Virat Kohli ,66,83,116,2,0,79.51,catch_out,Perera
+1430,Virat Kohli ,21,27,36,2,0,77.77,catch_out,Watson
+1447,Virat Kohli ,133,86,133,16,2,154.65,n,
+1451,Virat Kohli ,108,120,148,7,0,90,catch_out,Maharoof
+1467,Virat Kohli ,66,82,126,5,0,80.48, ,Razzak
+1489,Virat Kohli ,183,148,211,22,1,123.64,catch_out,Gul
+1495,Virat Kohli ,106,113,158,9,0,93.8,catch_out,Perera
+1514,Virat Kohli ,1,5,6,0,0,20,catch_out,Perera
+1535,Virat Kohli ,38,65,80,2,0,58.46,catch_out,Herath
+1552,Virat Kohli ,128,119,187,12,1,107.56,n,
+1558,Virat Kohli ,23,35,42,2,0,65.71,lbw,Pradeep
+1578,Virat Kohli ,0,5,9,0,0,0, ,Khan
+1603,Virat Kohli ,6,9,12,1,0,66.66,catch_out,Khan
+1614,Virat Kohli ,7,17,25,1,0,41.17,catch_out,Khan
+1642,Virat Kohli ,15,22,45,1,0,68.18,catch_out,Bresnan
+1653,Virat Kohli ,37,54,86,1,1,68.51,catch_out,Woakes
+1683,Virat Kohli ,77,79,110,9,2,97.46,n,
+1697,Virat Kohli ,26,33,44,3,0,78.78,catch_out,Tredwell
+1704,Virat Kohli ,0,1,1,0,0,0,catch_out,Bresnan
+1720,Virat Kohli ,31,41,46,2,0,75.6,catch_out,Tsotsoe
+1751,Virat Kohli ,22,18,18,4,0,122.22, ,Narine
+1766,Virat Kohli ,22,27,36,3,0,81.48,n,
+1780,Virat Kohli ,58,64,80,4,1,90.62,n,
+1784,Virat Kohli ,43,34,66,4,1,126.47,catch_out,Anderson
+1803,Virat Kohli ,11,21,19,0,1,52.38,catch_out,Sammy
+1827,Virat Kohli (c),2,5,6,0,0,40,catch_out,Mathews
+1837,Virat Kohli (c),102,83,120,13,2,122.89,catch_out,Bravo
+1856,Virat Kohli (c),31,52,62,4,0,59.61,lbw,Herath
+1883,Virat Kohli ,2,5,8,0,0,40,catch_out,Eranga
+1903,Virat Kohli (c),115,108,133,13,1,106.48,catch_out,Utseya
+1909,Virat Kohli (c),14,18,35,2,0,77.77,catch_out,Jarvis
+1941,Virat Kohli (c),68,88,128,5,1,77.27,n,
+1986,Virat Kohli ,61,85,121,6,0,71.76,lbw,Watson
+2004,Virat Kohli ,100,52,82,8,7,192.3,n,
+2007,Virat Kohli ,68,73,121,9,0,93.15,catch_out,Maxwell
+2046,Virat Kohli ,115,66,104,18,1,174.24,n,
+2052,Virat Kohli ,0,3,4,0,0,0,run_out,(Coulter-Nile/†Haddin)
+2081,Virat Kohli ,86,84,120,9,2,102.38,catch_out,Holder
+2087,Virat Kohli ,99,100,159,9,0,99,catch_out,Rampaul
+2113,Virat Kohli ,19,18,19,3,0,105.55,catch_out,Rampaul
+2126,Virat Kohli ,31,35,41,5,0,88.57,catch_out,MLaren
+2145,Virat Kohli ,0,5,7,0,0,0,catch_out,Tsotsoe
+2165,Virat Kohli ,123,111,179,11,2,110.81,catch_out,MClenaghan
+2185,Virat Kohli ,78,65,88,7,2,120,catch_out,Southee
+2207,Virat Kohli ,6,20,27,1,0,30,catch_out,Bennett
+2217,Virat Kohli ,2,10,14,0,0,20,catch_out,Southee
+2237,Virat Kohli ,82,78,129,7,3,105.12,catch_out,MCullum
+2257,Virat Kohli (c),136,122,157,16,2,111.47, ,Hossain
+2263,Virat Kohli (c),48,51,66,4,1,94.11, ,Mendis
+2284,Virat Kohli (c),5,11,29,0,0,45.45,catch_out,Gul
+2320,Virat Kohli ,0,3,3,0,0,0,catch_out,Woakes
+2350,Virat Kohli ,40,50,67,2,1,80,catch_out,Stokes
+2367,Virat Kohli ,1,3,9,0,0,33.33,n,
+2379,Virat Kohli ,13,21,25,2,0,61.9,catch_out,Anderson
+2398,Virat Kohli ,2,5,7,0,0,40,catch_out,Taylor
+2410,Virat Kohli ,62,78,124,5,0,79.48,catch_out,Rampaul
+2429,Virat Kohli ,127,114,164,13,3,111.4,run_out,(†Ramdin/Holder)
+2448,Virat Kohli (c),22,21,34,2,0,104.76,catch_out,Randiv
+2476,Virat Kohli (c),49,44,44,2,2,111.36,catch_out,Prasanna
+2493,Virat Kohli (c),53,61,61,4,1,86.88,catch_out,Dilshan
+2499,Virat Kohli (c),66,64,109,6,0,103.12,run_out,(Prasanna/†Chandimal)
+2525,Virat Kohli (c),139,126,192,12,3,110.31,n,
+2534,Virat Kohli ,9,16,24,0,0,56.25,catch_out,Faulkner
+2552,Virat Kohli ,4,8,13,0,0,50,catch_out,Finn
+2565,Virat Kohli ,8,19,26,0,0,42.1,catch_out,Ali
+2585,Virat Kohli ,107,126,168,8,0,84.92,catch_out,Khan
+2605,Virat Kohli ,46,60,106,3,0,76.66,catch_out,Tahir
+2636,Virat Kohli ,33,41,49,5,0,80.48,n,
+2650,Virat Kohli ,33,36,51,5,0,91.66,catch_out,Russell
+2669,Virat Kohli ,44,42,64,4,1,104.76,n,
+2684,Virat Kohli ,38,48,71,4,0,79.16, ,Raza
+2690,Virat Kohli ,3,8,6,0,0,37.5,catch_out,Hossain
+2718,Virat Kohli ,1,13,11,0,0,7.69,catch_out,Johnson
+2740,Virat Kohli ,1,4,9,0,0,25,catch_out,Ahmed
+2751,Virat Kohli ,23,27,57,3,1,85.18,lbw,Hossain
+2768,Virat Kohli ,25,35,55,1,0,71.42, ,Hasan
+2795,Virat Kohli ,11,18,29,0,0,61.11,catch_out,Steyn
+2804,Virat Kohli ,12,18,24,0,0,66.66,run_out,Kok)
+2834,Virat Kohli ,77,99,155,5,0,77.77,catch_out,Morkel
+2842,Virat Kohli ,138,140,202,6,5,98.57,catch_out,Raada
+2869,Virat Kohli ,7,6,11,0,1,116.66,catch_out,Raada
+2880,Virat Kohli ,91,97,148,9,1,93.81,catch_out,Faulkner
+2892,Virat Kohli ,59,67,84,4,0,88.05,run_out,(Rihardson/†Wade)
+2906,Virat Kohli ,117,117,174,7,2,100,catch_out,Hastings
+2932,Virat Kohli ,106,92,131,11,1,115.21,catch_out,Rihardson
+2952,Virat Kohli ,8,11,11,1,0,72.72,catch_out,Hastings
+2969,Virat Kohli ,85,81,109,9,1,104.93,n,
+2986,Virat Kohli ,9,13,18,1,0,69.23,catch_out,Santner
+3008,Virat Kohli ,154,134,202,16,1,114.92,n,
+3022,Virat Kohli ,45,51,64,2,1,88.23,catch_out,Sodhi
+3033,Virat Kohli ,65,76,152,2,1,85.52,catch_out,Sodhi
+3061,Virat Kohli (c),122,105,147,8,5,116.19,catch_out,Stokes
+3070,Virat Kohli (c),8,5,6,2,0,160,catch_out,Woakes
+3097,Virat Kohli (c),55,63,81,8,0,87.3,catch_out,Stokes
+3108,Virat Kohli (c),81,68,108,6,3,119.11,n,
+3124,Virat Kohli (c),0,5,5,0,0,0,catch_out,Pradeep
+3149,Virat Kohli (c),76,101,136,7,1,75.24,n,
+3162,Virat Kohli (c),96,78,96,13,0,123.07,n,
+3171,Virat Kohli (c),5,9,11,0,0,55.55,catch_out,Amir
+3182,Virat Kohli (c),87,66,66,4,4,131.81,catch_out,Joseph
+3197,Virat Kohli (c),11,22,22,2,0,50,catch_out,Holder
+3225,Virat Kohli (c),3,12,12,0,0,25,catch_out,Holder
+3247,Virat Kohli (c),111,115,115,12,2,96.52,n,
+3262,Virat Kohli (c),82,70,70,10,1,117.14,n,
+3277,Virat Kohli (c),4,2,2,1,0,200, ,Dananjaya
+3295,Virat Kohli (c),3,11,11,0,0,27.27,catch_out,Fernando
+3301,Virat Kohli (c),131,96,96,17,2,136.45,catch_out,Malinga
+3330,Virat Kohli (c),110,116,116,9,0,94.82,n,
+3336,Virat Kohli (c),0,4,7,0,0,0,catch_out,Coulter-Nile
+3356,Virat Kohli (c),92,107,148,8,0,85.98, ,Coulter-Nile
+3386,Virat Kohli (c),28,35,58,2,0,80,catch_out,Agar
+3400,Virat Kohli (c),21,21,23,3,0,100, ,Coulter-Nile
+3420,Virat Kohli (c),39,55,73,2,0,70.9,catch_out,Zampa
+3425,Virat Kohli (c),121,125,203,9,2,96.8,catch_out,Southee
+3451,Virat Kohli (c),29,29,40,3,1,100,catch_out,Grandhomme
+3457,Virat Kohli (c),113,106,166,9,1,106.6,catch_out,Southee
+3483,Virat Kohli (c),112,119,164,10,0,94.11,catch_out,Phehlukwayo
+3500,Virat Kohli (c),46,50,64,4,1,92,n,
+3503,Virat Kohli (c),160,159,220,12,2,100.62,n,
+3522,Virat Kohli (c),75,83,119,7,1,90.36,catch_out,Morris
+3538,Virat Kohli (c),36,54,76,2,0,66.66,run_out,(Duminy)
+3569,Virat Kohli (c),129,96,123,19,2,134.37,n,
+3584,Virat Kohli (c),75,82,82,7,0,91.46,s,Rashid
+3596,Virat Kohli (c),45,56,56,2,0,80.35,lbw,Ali
+3607,Virat Kohli (c),71,72,98,8,0,98.61, ,Rashid
+3630,Virat Kohli (c),140,107,107,21,2,130.84,s,Bishoo
+3634,Virat Kohli (c),157,129,217,13,4,121.7,n,
+3662,Virat Kohli (c),107,119,119,10,1,89.91, ,Samuels
+3673,Virat Kohli (c),16,17,17,2,0,94.11,catch_out,Roah
+3702,Virat Kohli (c),33,29,57,6,0,113.79,n,
+3712,Virat Kohli (c),3,8,10,0,0,37.5,catch_out,Rihardson
+3733,Virat Kohli (c),104,112,150,5,2,92.85,catch_out,Rihardson
+3750,Virat Kohli (c),46,62,62,3,0,74.19,catch_out,Rihardson
+3766,Virat Kohli (c),45,59,59,3,0,76.27,catch_out,Ferguson
+3770,Virat Kohli (c),43,45,59,5,0,95.55,catch_out,Boult
+3798,Virat Kohli (c),60,74,94,6,1,81.08,catch_out,Boult
+3812,Virat Kohli (c),44,45,45,6,1,97.77,lbw,Zampa
+3818,Virat Kohli (c),116,120,120,10,0,96.66,catch_out,Cummins
+3847,Virat Kohli (c),123,95,95,16,1,129.47, ,Zampa
+3859,Virat Kohli (c),7,6,6,1,0,116.66,catch_out,Rihardson
+3887,Virat Kohli (c),20,22,22,2,0,90.9,catch_out,Stoinis
+3908,Virat Kohli (c),18,34,44,1,0,52.94,catch_out,Phehlukwayo
+3914,Virat Kohli (c),82,77,128,4,2,106.49,catch_out,Stoinis
+3932,Virat Kohli (c),77,65,105,7,0,118.46,catch_out,Amir
+3947,Virat Kohli (c),67,63,105,5,0,106.34,catch_out,Nai
+3968,Virat Kohli (c),72,82,146,8,0,87.8,catch_out,Holder
+3997,Virat Kohli (c),66,76,103,7,0,86.84,catch_out,Plunkett
+4004,Virat Kohli (c),26,27,45,3,0,96.29,catch_out,Rahman
+4034,Virat Kohli (c),34,41,61,3,0,82.92,n,
+4049,Virat Kohli (c),1,6,8,0,0,16.66,lbw,Boult
+4060,Virat Kohli (c),120,125,179,14,1,96,catch_out,Brathwaite
+4089,Virat Kohli (c),114,99,127,14,0,115.15,n,
+4095,Virat Kohli (c),4,4,4,1,0,100, ,Cottrell
+4109,Virat Kohli (c),0,1,1,0,0,0,catch_out,Pollard
+4134,Virat Kohli (c),85,81,81,9,0,104.93, ,Paul
+4143,Virat Kohli (c),16,14,14,0,1,114.28,catch_out,Zampa
+4155,Virat Kohli (c),78,76,76,6,0,102.63,catch_out,Zampa
+4185,Virat Kohli (c),89,91,91,8,0,97.8, ,Hazlewood
+4190,Virat Kohli (c),51,63,88,6,0,80.95, ,Sodhi
+4214,Virat Kohli (c),15,25,31,1,0,60, ,Southee
+4225,Virat Kohli (c),9,12,20,0,1,75,catch_out,Bennett
+4249,Virat Kohli (c),21,21,21,2,1,100,catch_out,Hazlewood
+4265,Virat Kohli (c),89,87,87,7,2,102.29,catch_out,Hazlewood
+4276,Virat Kohli (c),63,78,78,5,0,80.76,catch_out,Hazlewood
+4294,Virat Kohli (c),56,60,65,6,0,93.33,catch_out,Wood
+4312,Virat Kohli (c),66,79,110,3,1,83.54,catch_out,Rashid
+4326,Virat Kohli (c),7,10,14,1,0,70, ,Ali
+4354,Virat Kohli ,51,63,79,3,0,80.95,catch_out,Shamsi
+4364,Virat Kohli ,0,5,4,0,0,0,catch_out,Maharaj
+4388,Virat Kohli ,65,84,112,5,0,77.38,catch_out,Maharaj
+4410,Virat Kohli ,8,4,6,2,0,200,catch_out,Joseph
+4416,Virat Kohli ,18,30,42,3,0,60,catch_out,Smith
+4438,Virat Kohli ,0,2,2,0,0,0,catch_out,Joseph
+4471,Virat Kohli ,16,25,39,3,0,64,catch_out,Willey
+4493,Virat Kohli ,17,22,27,3,0,77.27,catch_out,Topley
